@@ -1,2 +1,4 @@
 # Jogo-da-Velha
-Desafio "Criando próprio jogo da velha com HTML e Javascript"
+Desafio DIO-Órbi Web Games  "Criando próprio jogo da velha com HTML e JS"
+
+Projeto realizado durante bootcamp, utilizando conceitos de HTML, CSS E Javascript.
